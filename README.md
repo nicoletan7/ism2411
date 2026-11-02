@@ -26,7 +26,7 @@ Each script is standalone. Open a terminal and run:
 python week07/functions.py
 ```
 
-# Reflection
+## Reflection
 # 1.
 
 ```
