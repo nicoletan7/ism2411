@@ -1,7 +1,7 @@
 # Reflection
 # 1. The most surprising thing about lists in Python is how easy it is to
 # change them by adding, removing, or sorting items. I expected that changing
-# a list would take more steps, but Python has built-in methods that make it simple.
+# a list would take more steps, but Python has built-in methods that make it easier.
 #
 # 2. At my ice cream job, a Python list could have been useful for keeping
 # track of daily sales amounts. Instead of manually comparing the numbers in
